@@ -1,2 +1,10 @@
 La placa zzz ingreso: 2026-05-14 22:25:07.492410
 La placa ccc ingreso: 2026-05-14 22:27:04.946834
+La placa ccc salio: 2026-05-15 17:44:37.964371
+La placa www ingreso: 2026-05-15 17:57:37.258287
+La placa ppp ingreso: 2026-05-15 17:58:48.459088
+La placa zzz salio: 2026-05-15 18:00:53.101506
+La placa 1223 ingreso: 2026-05-15 18:02:50.686425
+La placa eee ingreso: 2026-05-15 18:18:57.518091
+La placa PPP ingreso: 2026-05-15 18:26:44.555552
+La placa PPP salio: 2026-05-15 18:26:51.646187
